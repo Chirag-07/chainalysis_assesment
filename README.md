@@ -1,3 +1,7 @@
+# Live Site hosted on Heroku:
+https://cryptocoin-prices.herokuapp.com/
+
+
 # Steps to run the application:
 
 1. Clone the repository
