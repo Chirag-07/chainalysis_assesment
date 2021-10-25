@@ -1,0 +1,29 @@
+.App {
+  text-align: center;
+}
+
+.css-icizyq-MuiTypography-root.title { 
+  margin-top: 5rem;
+  font-weight: 800;
+}
+
+.priceGrid {
+  display: flex;
+}
+
+.priceCard {
+  margin: 1rem 1rem 1rem 1rem;
+}
+
+.priceContent {
+  flex-grow: 1;
+  margin: 1rem 1rem 1rem 1rem;
+}
+
+.recGrid {
+  margin: 0 1rem 1rem 1rem;
+}
+
+.recCard {
+  display: flex;
+}
